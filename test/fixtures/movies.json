@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "backdrop_path": "/1.jpg",
+        "original_name": "Halo",
+        "origin_country": ["US"],
+        "original_language": "en",
+        "vote_count": 19,
+        "poster_path": "/1.jpg",
+        "name": "Halo",
+        "first_air_date": "2022-03-24",
+        "vote_average": 8.2,
+        "genre_ids": [1, 2],
+        "overview":"nice",
+        "popularity": 1.1,
+        "media_type": "tv"
+      },
+      {
+        "genre_ids": [1, 2],
+        "original_language": "en",
+        "original_title": "Halo",
+        "poster_path": "/1.jpg",
+        "video": false,
+        "vote_average": 8.2,
+        "overview":"nice",
+        "release_date": "2022-03-24",
+        "title": "Halo",
+        "vote_count": 19,
+        "adult": false,
+        "backdrop_path": "/1.jpg",
+        "id": 1,
+        "popularity": 1.1,
+        "media_type": "movie"
+      }
+]
